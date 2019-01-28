@@ -18,5 +18,3 @@ import file <b>item_type_plugin_jd_input_item_mask.sql</b> to APEX application
 
 ## Demo Application
 https://apex.oracle.com/pls/apex/f?p=69754:4
-
-
