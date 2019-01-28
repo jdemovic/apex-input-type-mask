@@ -2,23 +2,21 @@
 ###Input Item Mask APEX Plugin
 
 Oracle apex plugin for APEX 18.0 and above.
-This plugin alows user to show badge style IOS over the each item defined by jQuery selector.
-Plugin creates div or span element based on mentioned object type.
-New DIV element is created for input and textarea. For other object types SPAN element is created.
+This plugin alows user to use mask for input item in many variations.
+Based on the JS library: inputmask.js (https://github.com/RobinHerbots/Inputmask)
 
 Allowed parameters are:<br>
 
-<b>SQL Query:</b> sql query returns one number value<br>
-<b>jQuery selector:</b> Paste jquery selector to the item where you want to show badge<br>
-<b>Left:</b> value in pixels (final left position is calculated as width of selected item + Left value)<br>
-<b>Top:</b> CSS top style attribute for badge div/span<br>
-<b>Page items to submit:</b> Paste items which should be submitted when sql query is executed
+<b>Match Type:</b> match, regex, alias<br>
+<b>Match Value:</b>mask definition<br>
+<b>Text Alignment:</b> <br>
+<b>Custom Option(s):</b> library options<br>
 
 ## Installation
 
-XXXimport file <b>dynamic_action_plugin_user_demovicj_apex_calc_badge.sql</b> to APEX
+import file <b>item_type_plugin_jd_input_item_mask.sql</b> to APEX application
 
 ## Demo Application
-XXXhttps://apex.oracle.com/pls/apex/f?p=69754:3
+https://apex.oracle.com/pls/apex/f?p=69754:4
 
 
