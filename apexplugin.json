@@ -1,0 +1,33 @@
+{
+  "name" : "Input Mask",
+  "version" : "1.0.0",
+  "description" : "APEX Plugin build by using inputmask.js library.",
+  "keywords" : ["input item", "item plugin", "mask item"],
+  "homepage" : "https://github.com/jdemovic/apex-input-type-mask",
+  "bugs" : {
+    "url" : "https://github.com/jdemovic/apex-input-type-mask",
+    "email" : "jdemovic@gmail.com"
+  "license" : "MIT",
+  "author" : {
+    "name" : "Jozef Demovič",
+    "email" : "jdemovic@gmail.com",
+    "url" : "https://www.linkedin.com/in/jozef-demovic-692295109/",
+    "donationUrl" : "https://paypal.me/jdemovic"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/jdemovic/apex-input-type-mask"
+  },
+  "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["18.1.0.00.45","18.2.0.00.12"],
+      "plugin" : {
+        "internalName" : "JD.INPUT_ITEM_MASK",
+        "type" : "item",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=69754:4",
+        "previewImage" : "https://raw.githubusercontent.com/jdemovic/apex-input-type-mask/master/preview.png"
+      }
+    }
+  }
+}
