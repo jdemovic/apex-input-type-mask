@@ -1,6 +1,6 @@
 {
   "name" : "Input Mask",
-  "version" : "1.0.0",
+  "version" : "1.0",
   "description" : "APEX Plugin build by using inputmask.js library.",
   "keywords" : ["input item", "item plugin", "mask item"],
   "homepage" : "https://github.com/jdemovic/apex-input-type-mask",
