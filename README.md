@@ -1,7 +1,7 @@
 # apex-input-type-mask
 ##Input Item Mask APEX Plugin
 
-Oracle apex plugin for APEX 18.0 and above.
+Oracle apex plugin for APEX 18.0 (APEX 5.1 is different file) and above.
 This plugin alows user to use mask for input item in many variations.
 Based on the JS library: inputmask.js (https://github.com/RobinHerbots/Inputmask)
 
