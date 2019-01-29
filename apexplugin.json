@@ -22,7 +22,7 @@
   "oracle" : {
     "versions" : ["11.2.0.1", "12.1.0.1"],
     "apex" : {
-      "versions" : ["18.1.0.00.45","18.2.0.00.12"],
+      "versions" : ["5.1.4","18.1.0.00.45","18.2.0.00.12"],
       "plugin" : {
         "internalName" : "JD.INPUT_ITEM_MASK",
         "type" : "item",
