@@ -16,6 +16,9 @@ Allowed parameters are:<br>
 
 import file <b>item_type_plugin_jd_input_item_mask.sql</b> to APEX application
 
+## Previous release of APEX 5.1
+import file <b>item_type_plugin_jd_input_item_mask_5_1.sql</b> to APEX 5.1 application
+
 ## Demo Application
 https://apex.oracle.com/pls/apex/f?p=69754:4
 
