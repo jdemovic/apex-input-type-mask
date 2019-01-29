@@ -1,5 +1,5 @@
 # apex-input-type-mask
-###Input Item Mask APEX Plugin
+##Input Item Mask APEX Plugin
 
 Oracle apex plugin for APEX 18.0 and above.
 This plugin alows user to use mask for input item in many variations.
@@ -16,7 +16,7 @@ Allowed parameters are:<br>
 
 import file <b>item_type_plugin_jd_input_item_mask.sql</b> to APEX application
 
-## Previous release of APEX 5.1
+## Previous release of APEX (version 5.1)
 import file <b>item_type_plugin_jd_input_item_mask_5_1.sql</b> to APEX 5.1 application
 
 ## Demo Application
